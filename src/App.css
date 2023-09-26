@@ -11,3 +11,10 @@
     justify-content: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
+  .cont{
+    display: flex;
+    flex-direction: row;
+    float: left;
+    margin: 2vh;
+    width: 100%;
+  }

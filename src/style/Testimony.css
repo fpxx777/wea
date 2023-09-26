@@ -1,0 +1,38 @@
+.contenedor{
+    background-color: #E9E5D6;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    max-width: 250px;
+    min-height: 450px;
+    margin: 1vh;
+}
+.img{
+    border-bottom: #BEBBAD solid 2px;
+    max-width: 250px;
+}
+.marca{
+    color: #BEBBAD;
+    font-size: 15px;
+}
+.contInfo{
+    font-size: 20px;
+    max-height: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.agregarCarr{
+    background-color: #AA8B56;
+    border-style: none;
+    width: 100px;
+}
+.carroCont{
+    display: flex;
+    justify-content: center; 
+}
+.contAll{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
